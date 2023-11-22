@@ -1,0 +1,8 @@
+{
+    "alarm": {
+        "enabled": true,
+        "hour": 23,
+        "minute": 24,
+        "second": 0
+    }
+}
