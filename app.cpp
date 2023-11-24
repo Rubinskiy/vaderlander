@@ -9,6 +9,9 @@ using namespace std;
 
 int main()
 {
+    // Close the console window
+    FreeConsole();
+
     // Read the JSON file
     ifstream f("settings.json");
     json data = json::parse(f);
